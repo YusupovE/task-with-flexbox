@@ -1,0 +1,164 @@
+/* PORTFOLIO PART */
+header {
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 2px solid #ccc;
+    height: 90px;
+    margin: 0 auto;
+    padding: 0 auto;
+  }
+  
+  body {
+    background: url(../images/pic8.png);
+  }
+  
+  #your-name-color {
+    background-color: #4aaaa5;
+    width: 180px;
+  height: 55px;
+  /* border: 1px solid blue; */
+  margin-top: -35px;
+  text-align: center;
+  padding-top: 35px;
+  color: #fff;
+  /*  */
+}
+#your-name-color a{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+}
+
+.ul-classes,
+.second-ul {
+  display: flex;
+}
+
+.second-ul {
+  margin-left: auto;
+  gap: 30px;
+}
+
+ul{
+  margin: 35px 160px;
+}
+
+main {
+    margin: 35px 160px;
+  }
+nav ul li a {
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #999;
+}
+
+.contact-me {
+  display: flex;
+  border: 2px solid #ccc;
+  background: #fff;
+  flex: 1;
+  height: 200px;
+}
+.contact-me {
+  display: flex;
+  flex-direction: column;
+}
+.abc h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  font-weight: bolder;
+  border-bottom: 3px solid#ccc;
+  margin: 35px;
+  padding-bottom: 20px;
+  color: #4aaaa5;
+}
+
+.contact-me h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  font-weight: bolder;
+  border-bottom: 2px solid#ccc;
+  margin: 20px 35px;
+  padding-bottom: 15px;
+  color: #4aaaa5;
+}
+
+.icons {
+  display: flex;
+  gap: 8px;
+  margin: 10px 25px 10px 35px;
+}
+
+.abc {
+  border: 2px solid #ccc;
+  background: #fff;
+  flex: 4;
+  /* gap: 20px; */
+}
+
+
+.container {
+    display: flex;
+    gap: 40px;
+    padding-bottom: 83px;
+  }
+  
+  .icons img {
+    width: 62px;
+    height: 62px;
+  }
+  
+  .abc img {
+    width: 190px;
+    height: 160px;
+    ;
+    /* margin: 3px 15px; */
+  }
+
+
+  .down-class {
+    background: #999;
+    border-top: 8px solid#4aaaa5;
+    text-align: center;
+    color: #fff;
+    font-size: 0.8em;
+    padding: 30px;
+  }
+  
+
+
+
+
+
+.pics  img{
+    margin-left: 35px;
+    width: 274px;
+    height: 206px;
+    
+  }
+  
+  .pictures div h3 {
+    margin-left: 35px;
+  }
+
+  .pics {
+    display: flex;
+    flex-flow: row wrap;
+    /* margin-right: 35px; */
+    /* gap: 15px; */
+    
+  }
+  
+
+  .h3-class h3 {
+    position: relative;
+    bottom: 70px;
+    text-align: center;
+    background-color: #4aaaa5;
+    padding: 15px;
+    color: #fff;
+    font-weight: bolder;
+   
+  }
